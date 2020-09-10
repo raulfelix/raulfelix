@@ -1,4 +1,4 @@
-![Raul](/rockin.png)
+![Raul](https://raw.githubusercontent.com/raulfelix/raulfelix/master/rockin.png)
 
 ### Hello!
 
