@@ -1,4 +1,4 @@
-### G'day mate 👋 ⚽️
+### Hey!
 
 ![Raul](/rockin.png)
 
@@ -7,4 +7,6 @@ I specialise in Front end architecture and development. I spend most of my time 
 I like technical challenges and solving problems with the best tech Javascript has to offer. Things like React, GraphQL, Apollo Client and Styled Components. 😍
 
 ⚡ Fun fact:
-I work for [Inquisitive](https://www.inquisitive.com/), building a platform to bring quality educational content to every person on Earth 🎓 🌏.
+I work for [Inquisitive](https://www.inquisitive.com/), building a platform to bring quality educational 🎓 content to every person on Earth 🌏.
+
+Gotta go now and play some ⚽️
