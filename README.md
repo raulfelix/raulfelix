@@ -1,5 +1,3 @@
-![Raul](https://raw.githubusercontent.com/raulfelix/raulfelix/master/rockin.png)
-
 ### Hello!
 
 I specialise in Front end architecture and development. I spend most of my time in the code but like to get involved in user experience and accessibility.
